@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abid Hosen</h1>
-<h3 align="center">Frontend Web Developer · Design-driven thinker · Cox's Bazar, Bangladesh</h3>
+<h3 align="center">AI / LLM Application Engineer · Building intelligent products with real-world impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+responsive,+user-friendly+interfaces;Design-driven+web+development;Passionate+about+modern+web+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Exploring+RAG,+agents+%26+prompt+engineering;Design-driven+thinking+meets+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,24 +21,32 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently focused on **modern frontend development** — building clean, responsive, real-world web projects
-- 🌱 I'm currently learning **advanced JavaScript, React, and UI/UX best practices**
-- 💡 I believe great software starts with **design-driven thinking**
-- ⚡ Fun fact: I love turning ideas into interfaces people actually enjoy using
+- 🎯 Aspiring **AI / LLM Application Engineer** — building products on top of large language models
+- 🔭 Currently exploring **RAG pipelines, AI agents, and prompt engineering**
+- 🌱 Currently learning **Python, LLM APIs (OpenAI & friends), and vector databases**
+- 🧩 My edge: **design-driven thinking + web development roots** — I ship AI features people actually use
+- ⚡ Fun fact: I believe the best AI products feel invisible — great UX wrapped around great models
 
 ### 🛠️ Tech Stack
 
+**AI / Engineering (in progress)**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,netlify" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,fastapi,docker,git" alt="AI engineering stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412992?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LLM_%26_Prompt_Engineering-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vector_Databases-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+**Web Development (foundation)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,figma" alt="Web stack" />
 </p>
 
 ---
