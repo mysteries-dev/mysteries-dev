@@ -32,11 +32,12 @@
 **AI / Engineering (in progress)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,fastapi,docker,git" alt="AI engineering stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git" alt="AI engineering stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/OpenAI-412992?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LLM_%26_Prompt_Engineering-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/RAG_%26_Vector_Databases-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG" />
