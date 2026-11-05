@@ -1,83 +1,109 @@
-<h1 align="center">Hi 👋, I'm Mohammed Abid Hosen</h1>
-<h3 align="center">AI / LLM Application Engineer · Building intelligent products with real-world impact</h3>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mysteries-dev</sub></p>
+<h1>Mohammed Abid Hosen</h1>
+<h2>Product-minded developer</h2>
+<p>Aspiring AI / LLM Application Engineer — building intelligent products with RAG, agents &amp; prompt engineering. Design-driven thinker with web dev roots.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Cox's Bazar, Chattogram</sub></p>
+<p><a href="https://github.com/mysteries-dev">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/252048261?v=4" width="180" alt="Mohammed Abid Hosen GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 2 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Aspiring AI / LLM Application Engineer — building intelligent products with RAG, agents &amp; prompt engineering. Design-driven thinker with web dev roots.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Exploring+RAG,+agents+%26+prompt+engineering;Design-driven+thinking+meets+AI" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mohammed Abid Hosen GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&repos=mysteries-dev%2Fmysteries-dev&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&repos=mysteries-dev%2Fmysteries-dev&v=recruiter-projects-1&mode=dark" width="100%" alt="Mohammed Abid Hosen selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/mysteries-dev/mysteries-dev">mysteries-dev</a></h3>
+<p>My GitHub profile README</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/mysteries-dev/mysteries-dev">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <a href="https://github.com/mysteries-dev">
-    <img src="https://komarev.com/ghpvc/?username=mysteries-dev&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  </a>
-  <a href="mailto:mdabidhossain255@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/mysteries-dev?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/mysteries-dev?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mohammed Abid Hosen technology stack" />
+</picture>
 </p>
 
----
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
-### 🚀 About Me
-
-- 🎯 Aspiring **AI / LLM Application Engineer** — building products on top of large language models
-- 🔭 Currently exploring **RAG pipelines, AI agents, and prompt engineering**
-- 🌱 Currently learning **Python, LLM APIs (OpenAI & friends), and vector databases**
-- 🧩 My edge: **design-driven thinking + web development roots** — I ship AI features people actually use
-- ⚡ Fun fact: I believe the best AI products feel invisible — great UX wrapped around great models
-
-### 🛠️ Tech Stack
-
-**AI / Engineering (in progress)**
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,fastapi,docker,git" alt="AI engineering stack" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mysteries-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252048261%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mohammed Abid Hosen contribution activity" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-412992?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LLM_%26_Prompt_Engineering-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/RAG_%26_Vector_Databases-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
+<hr />
 
-**Web Development (foundation)**
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mysteries-dev">GitHub</a></td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,figma" alt="Web stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mysteries-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteries-dev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mysteries-dev&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:mdabidhossain255@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mysteries-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/mysteries-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/mysteries-dev?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mysteries-dev/count.svg" alt="Profile hits" />
-</p>
+<p align="center"><sub>Mohammed Abid Hosen · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
